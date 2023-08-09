@@ -1,0 +1,9 @@
+.edit-form-wrapper {
+    position: fixed;
+    top: 0;
+    right: 100px;
+    display: none;
+}
+.edit-form-wrapper.isShow {
+    display: block;
+}
